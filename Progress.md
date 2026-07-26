@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 * **Project Name:** Enterprise Network Project - Small Business Infrastructure
 * **Number of VLANs:** 4 VLANs (HR, IT, Finance, Server/Management)
-* **Total Devices:** 15 Devices (2 Routers, 2 Switches, 1 Server, 10 PCs)
+* **Total Devices:** 15 Devices (2 Routers, 2 Switches, 1 Server, 9 PCs)
 
 ---
 
